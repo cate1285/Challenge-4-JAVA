@@ -75,3 +75,4 @@ Para la entrega es necesario:
 2. Luego de subir los scripts de sql de creación e inserción de datos, se debe subir el de actualizaciones y por último el de consultas. 
 3. Luego se evalúa, igual que con los retos anteriores. Si todo esta correcto, tanto las inserciones y las consultas, se obtendrá una nota de 5/5. Si hay un error la evaluación será 0. Por lo que será necesario que revisen hasta que las salidas sean las correctas
 
+![image](https://user-images.githubusercontent.com/73371710/135160342-5e9b1034-4f5a-42f6-bed5-8736e039695f.png)
